@@ -1,1 +1,1 @@
-# arcact-studio
+arcact-studio → pages → index.js
